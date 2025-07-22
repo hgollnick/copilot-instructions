@@ -1,3 +1,0 @@
-# Architecture Requirements
-
-...existing content from the file...
